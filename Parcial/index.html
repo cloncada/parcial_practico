@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+        crossorigin="anonymous">
+
+    <title>Parcial!</title>
+</head>
+<h1 class="text-center display-1"><strong>Consulta de datos del gobierno</strong></h1>
+<body>
+    <div class="container my-5 text-center">
+      <h2 class="text-left">Consulta de cultivos municipios</h2>
+      <button class ="left"onclick="direc()">Consulta colegios del cesar</button>
+
+<p id="demo"></p>
+        <button class="btn btn-danger w-100" onclick="traer()">Obtener</button>
+        <div class="mt-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">municipio</th>
+                        <th scope="col">periodo</th>
+                        <th scope="col">cultivo</th>
+                        <th scope="col">variedad</th>
+                        <th scope="col">area sembrada</th>
+                        <th scope="col">area cosechada</th>
+                        <th scope="col">produccion</th>
+                        <th scope="col">rendimiento</th>
+                    </tr>
+                </thead>
+                <tbody id="contenido">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        var contenido = document.querySelector('#contenido')
+
+        function traer() {
+            fetch('tabla.json')
+                .then(res => res.json())
+                .then(datos => {
+                    // console.log(datos)
+                    tabla(datos)
+                })
+        }
+
+        function tabla(datos) {
+            // console.log(datos)
+            contenido.innerHTML = ''
+            for(let valor of datos){
+                // console.log(valor.nombre)
+                contenido.innerHTML += `
+
+                <tr>
+                    <th scope="row">${ valor.municipio }</th>
+
+                    <td>${ valor.periodo }</td>
+                    <td>${ valor.cultivo }</td>
+                    <td>${ valor.variedad }</td>
+                    <td>${ valor.area_semabrada_ha }</td>
+                    <td>${ valor.area_cosechada_ha }</td>
+                    <td>${ valor.produccion_t }</td>
+                    <td>${ valor.rendimiento_t_ha }</td>
+
+                </tr>
+
+                `
+            }
+        }
+        function direc() {
+  var str = "Ir a la pagina de consulta de colegios del cesar";
+  var result = str.link("Colegios.html");
+  document.getElementById("demo").innerHTML = result;
+}
+
+    </script>
+
+
+</body>
+
+</html>

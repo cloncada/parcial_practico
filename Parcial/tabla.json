@@ -1,0 +1,517 @@
+[{"municipio":"SAN ESTANISLAO","periodo":"2017A","cultivo":"AHUYAMA","variedad":"PASTELITO","area_semabrada_ha":"50","area_cosechada_ha":"40","produccion_t":"400","rendimiento_t_ha":"10"}
+,{"municipio":"MOMPOS","periodo":"2017A","cultivo":"AHUYAMA","variedad":"CRIOLLA","area_semabrada_ha":"150","area_cosechada_ha":"150","produccion_t":"3000","rendimiento_t_ha":"20"}
+,{"municipio":"HATILLO DE LOBA","periodo":"2017A","cultivo":"AHUYAMA","variedad":"REDONDA","area_semabrada_ha":"48","area_cosechada_ha":"40","produccion_t":"480","rendimiento_t_ha":"12"}
+,{"municipio":"EL PEÑON","periodo":"2017A","cultivo":"AHUYAMA","variedad":"REDONDA","area_semabrada_ha":"50","area_cosechada_ha":"25","produccion_t":"300","rendimiento_t_ha":"12"}
+,{"municipio":"PINILLOS","periodo":"2017A","cultivo":"AHUYAMA","variedad":"REDONDA -PASTELITO","area_semabrada_ha":"600","area_cosechada_ha":"400","produccion_t":"6000","rendimiento_t_ha":"15"}
+,{"municipio":"MAGANGUE","periodo":"2017A","cultivo":"AHUYAMA","variedad":"CRIOLLA- PASTELITO","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"6000","rendimiento_t_ha":"15"}
+,{"municipio":"ACHI","periodo":"2017A","cultivo":"AHUYAMA","variedad":"REDONDA PASTELITO","area_semabrada_ha":"20","area_cosechada_ha":"20","produccion_t":"320","rendimiento_t_ha":"16"}
+,{"municipio":"PINILLOS","periodo":"2017B","cultivo":"AHUYAMA","variedad":"REDONDA, PASTELITO","area_semabrada_ha":"200","area_cosechada_ha":"200","produccion_t":"3000","rendimiento_t_ha":"15"}
+,{"municipio":"ACHI","periodo":"2017B","cultivo":"AHUYAMA","variedad":"REDONDA PASTELITO","area_semabrada_ha":"50","area_cosechada_ha":"48","produccion_t":"576","rendimiento_t_ha":"12"}
+,{"municipio":"SANTA CATALINA","periodo":"2017B","cultivo":"AHUYAMA","variedad":"PASTELITO","area_semabrada_ha":"8","area_cosechada_ha":"7","produccion_t":"65","rendimiento_t_ha":"10"}
+,{"municipio":"EL PEÑON","periodo":"2017B","cultivo":"AHUYAMA","variedad":"REDONDA","area_semabrada_ha":"15","area_cosechada_ha":"15","produccion_t":"180","rendimiento_t_ha":"12"}
+,{"municipio":"MOMPOS","periodo":"2017B","cultivo":"AHUYAMA","variedad":"CRIOLLA","area_semabrada_ha":"200","area_cosechada_ha":"150","produccion_t":"3000","rendimiento_t_ha":"20"}
+,{"municipio":"MONTECRISTO","periodo":"2017A","cultivo":"AJI","variedad":"CUBANELLE","area_semabrada_ha":"40","area_cosechada_ha":"35","produccion_t":"245","rendimiento_t_ha":"7"}
+,{"municipio":"MONTECRISTO","periodo":"2017B","cultivo":"AJI","variedad":"CUBANELLE","area_semabrada_ha":"23","area_cosechada_ha":"23","produccion_t":"191","rendimiento_t_ha":"8"}
+,{"municipio":"MAHATES","periodo":"2017A","cultivo":"AJI DULCE","variedad":"TOPITO","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"400","rendimiento_t_ha":"8"}
+,{"municipio":"MAHATES","periodo":"2017A","cultivo":"AJI DULCE","variedad":"TOPITO","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"700","rendimiento_t_ha":"7"}
+,{"municipio":"SANTA ROSA","periodo":"2017A","cultivo":"AJI DULCE","variedad":"CRIOLLO","area_semabrada_ha":"20","area_cosechada_ha":"10","produccion_t":"40","rendimiento_t_ha":"4"}
+,{"municipio":"MAHATES","periodo":"2017B","cultivo":"AJI DULCE","variedad":"TOPITO","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"240","rendimiento_t_ha":"8"}
+,{"municipio":"MAHATES","periodo":"2017B","cultivo":"AJI DULCE","variedad":"TOPITO","area_semabrada_ha":"70","area_cosechada_ha":"70","produccion_t":"490","rendimiento_t_ha":"7"}
+,{"municipio":"SANTA ROSA","periodo":"2017B","cultivo":"AJI DULCE","variedad":"CRIOLLO","area_semabrada_ha":"20","area_cosechada_ha":"10","produccion_t":"20","rendimiento_t_ha":"2"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"AJI DULCE","variedad":"TOPITO","area_semabrada_ha":"4","area_cosechada_ha":"4","produccion_t":"8","rendimiento_t_ha":"2"}
+,{"municipio":"CORDOBA","periodo":"2017B","cultivo":"AJONJOLI","variedad":"ICA PACANDE -CHINO ROJO","area_semabrada_ha":"1000","area_cosechada_ha":"1000","produccion_t":"800","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JACINTO","periodo":"2017B","cultivo":"AJONJOLI","variedad":"AJONJOLI","area_semabrada_ha":"70","area_cosechada_ha":"70","produccion_t":"70","rendimiento_t_ha":"1"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017B","cultivo":"AJONJOLI","variedad":"CRIOLLO","area_semabrada_ha":"110","area_cosechada_ha":"110","produccion_t":"88","rendimiento_t_ha":"1"}
+,{"municipio":"MORALES","periodo":"2017B","cultivo":"ALGODON","variedad":"TRANGENIC 1048-169","area_semabrada_ha":"38","area_cosechada_ha":"38","produccion_t":"95","rendimiento_t_ha":"3"}
+,{"municipio":"MAGANGUE","periodo":"2017B","cultivo":"ALGODON","variedad":"PD1740B2F","area_semabrada_ha":"12","area_cosechada_ha":"12","produccion_t":"24","rendimiento_t_ha":"2"}
+,{"municipio":"MAHATES","periodo":"2017A","cultivo":"ARROZ RIEGO","variedad":"FEDEARROZ 2000","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"230","rendimiento_t_ha":"5"}
+,{"municipio":"MORALES","periodo":"2017A","cultivo":"ARROZ RIEGO","variedad":"FEDEARROZ 743","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"1000","rendimiento_t_ha":"5"}
+,{"municipio":"ACHI","periodo":"2017A","cultivo":"ARROZ RIEGO","variedad":"FEDEARROZ 473","area_semabrada_ha":"900","area_cosechada_ha":"890","produccion_t":"4450","rendimiento_t_ha":"5"}
+,{"municipio":"CORDOBA","periodo":"2017A","cultivo":"ARROZ RIEGO","variedad":"FEDEARROZ 2000","area_semabrada_ha":"900","area_cosechada_ha":"900","produccion_t":"6300","rendimiento_t_ha":"7"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017A","cultivo":"ARROZ RIEGO","variedad":"LV-473","area_semabrada_ha":"1800","area_cosechada_ha":"1800","produccion_t":"9000","rendimiento_t_ha":"5"}
+,{"municipio":"MAHATES","periodo":"2017B","cultivo":"ARROZ RIEGO","variedad":"FEDEARROZ 2000","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"250","rendimiento_t_ha":"5"}
+,{"municipio":"MORALES","periodo":"2017B","cultivo":"ARROZ RIEGO","variedad":"FEDEARROZ 473","area_semabrada_ha":"250","area_cosechada_ha":"250","produccion_t":"1250","rendimiento_t_ha":"5"}
+,{"municipio":"ACHI","periodo":"2017B","cultivo":"ARROZ RIEGO","variedad":"FEDEARROZ 473","area_semabrada_ha":"600","area_cosechada_ha":"520","produccion_t":"2340","rendimiento_t_ha":"5"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017B","cultivo":"ARROZ RIEGO","variedad":"LV-473","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"1600","rendimiento_t_ha":"4"}
+,{"municipio":"NOROSI","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"180","area_cosechada_ha":"180","produccion_t":"270","rendimiento_t_ha":"2"}
+,{"municipio":"ALTOS DEL ROSARIO","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"LIGERITA","area_semabrada_ha":"150","area_cosechada_ha":"60","produccion_t":"90","rendimiento_t_ha":"2"}
+,{"municipio":"SAN MARTIN DE LOBA","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"40","area_cosechada_ha":"15","produccion_t":"23","rendimiento_t_ha":"2"}
+,{"municipio":"SAN PABLO","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CANILLA BLANCA","area_semabrada_ha":"650","area_cosechada_ha":"650","produccion_t":"1755","rendimiento_t_ha":"3"}
+,{"municipio":"SIMITI","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO V-109","area_semabrada_ha":"600","area_cosechada_ha":"600","produccion_t":"1800","rendimiento_t_ha":"3"}
+,{"municipio":"ARENAL","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"25","area_cosechada_ha":"20","produccion_t":"30","rendimiento_t_ha":"2"}
+,{"municipio":"PINILLOS","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO-LIGERITO","area_semabrada_ha":"250","area_cosechada_ha":"250","produccion_t":"500","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"VELEE-PAN BLANCO","area_semabrada_ha":"450","area_cosechada_ha":"400","produccion_t":"920","rendimiento_t_ha":"2"}
+,{"municipio":"TIQUISIO","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO-LIGERI.BLUBONET","area_semabrada_ha":"350","area_cosechada_ha":"300","produccion_t":"600","rendimiento_t_ha":"2"}
+,{"municipio":"MAGANGUE","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO- LIGERITO","area_semabrada_ha":"600","area_cosechada_ha":"600","produccion_t":"1500","rendimiento_t_ha":"3"}
+,{"municipio":"ACHI","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"INA BLANCO Y MONO","area_semabrada_ha":"1200","area_cosechada_ha":"1200","produccion_t":"2760","rendimiento_t_ha":"2"}
+,{"municipio":"MONTECRISTO","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"GUAYQUIL.INA MONO-CHIRI","area_semabrada_ha":"1650","area_cosechada_ha":"1500","produccion_t":"3000","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"SECANO MANUAL","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"50","rendimiento_t_ha":"1"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"50","rendimiento_t_ha":"1"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"SECANO","area_semabrada_ha":"120","area_cosechada_ha":"100","produccion_t":"200","rendimiento_t_ha":"2"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"ARROZ SECANO MANUAL","variedad":"ORIZICA","area_semabrada_ha":"5","area_cosechada_ha":"4","produccion_t":"8","rendimiento_t_ha":"2"}
+,{"municipio":"PINILLOS","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO.LIGER.BLUBONET","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"400","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"VELEC-PAN BLANCO","area_semabrada_ha":"300","area_cosechada_ha":"280","produccion_t":"420","rendimiento_t_ha":"2"}
+,{"municipio":"TIQUISIO","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO.LIGER.BLUBO.GUAY","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"400","rendimiento_t_ha":"2"}
+,{"municipio":"MAGANGUE","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO- LIGERITO","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"200","rendimiento_t_ha":"2"}
+,{"municipio":"ACHI","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"INA BLANCO Y MONO","area_semabrada_ha":"1300","area_cosechada_ha":"1200","produccion_t":"2160","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"SECANO MANUAL","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"400","rendimiento_t_ha":"1"}
+,{"municipio":"SAN PABLO","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CANILLA BLANCA","area_semabrada_ha":"600","area_cosechada_ha":"500","produccion_t":"1000","rendimiento_t_ha":"2"}
+,{"municipio":"MONTECRISTO","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"INA BLANCO WAYAQUIL,CHILIMICO","area_semabrada_ha":"1653","area_cosechada_ha":"769","produccion_t":"2692","rendimiento_t_ha":"4"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"ORIZICA","area_semabrada_ha":"75","area_cosechada_ha":"73","produccion_t":"365","rendimiento_t_ha":"5"}
+,{"municipio":"SIMITI","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"380","area_cosechada_ha":"380","produccion_t":"1254","rendimiento_t_ha":"3"}
+,{"municipio":"NOROSI","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"170","area_cosechada_ha":"120","produccion_t":"180","rendimiento_t_ha":"2"}
+,{"municipio":"ARENAL","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"SECANO","area_semabrada_ha":"25","area_cosechada_ha":"10","produccion_t":"15","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO","periodo":"2017B","cultivo":"MAIZ TECNIFICADO","variedad":"ICA V 109","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"1600","rendimiento_t_ha":"4"}
+,{"municipio":"ALTOS DEL ROSARIO","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"LIGERITA","area_semabrada_ha":"160","area_cosechada_ha":"150","produccion_t":"225","rendimiento_t_ha":"2"}
+,{"municipio":"SAN MARTIN DE LOBA","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"50","area_cosechada_ha":"20","produccion_t":"30","rendimiento_t_ha":"2"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"DONDE LO TIREN","area_semabrada_ha":"500","area_cosechada_ha":"280","produccion_t":"560","rendimiento_t_ha":"2"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017B","cultivo":"ARROZ SECANO MANUAL","variedad":"CRIOLLO","area_semabrada_ha":"140","area_cosechada_ha":"120","produccion_t":"240","rendimiento_t_ha":"2"}
+,{"municipio":"REGIDOR","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ","area_semabrada_ha":"263","area_cosechada_ha":"263","produccion_t":"526","rendimiento_t_ha":"2"}
+,{"municipio":"SAN PABLO","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 2000","area_semabrada_ha":"250","area_cosechada_ha":"250","produccion_t":"1250","rendimiento_t_ha":"5"}
+,{"municipio":"PINILLOS","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEAROZ 743","area_semabrada_ha":"300","area_cosechada_ha":"400","produccion_t":"1400","rendimiento_t_ha":"4"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDE ARROZ 2000-473-67","area_semabrada_ha":"6000","area_cosechada_ha":"5800","produccion_t":"20300","rendimiento_t_ha":"4"}
+,{"municipio":"TIQUISIO","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ,743-2000","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"350","rendimiento_t_ha":"4"}
+,{"municipio":"MAGANGUE","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ -2000","area_semabrada_ha":"500","area_cosechada_ha":"450","produccion_t":"1800","rendimiento_t_ha":"4"}
+,{"municipio":"ACHI","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 473","area_semabrada_ha":"6500","area_cosechada_ha":"6200","produccion_t":"24800","rendimiento_t_ha":"4"}
+,{"municipio":"MONTECRISTO","periodo":"2017A","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 743- 200","area_semabrada_ha":"600","area_cosechada_ha":"350","produccion_t":"1400","rendimiento_t_ha":"4"}
+,{"municipio":"PINILLOS","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 747-2000","area_semabrada_ha":"250","area_cosechada_ha":"250","produccion_t":"875","rendimiento_t_ha":"4"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDE ARROZ-2000","area_semabrada_ha":"3000","area_cosechada_ha":"2900","produccion_t":"9280","rendimiento_t_ha":"3"}
+,{"municipio":"TIQUISIO","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 747- 2000","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"300","rendimiento_t_ha":"3"}
+,{"municipio":"MAGANGUE","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 2000","area_semabrada_ha":"150","area_cosechada_ha":"150","produccion_t":"450","rendimiento_t_ha":"3"}
+,{"municipio":"ACHI","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 473-2000","area_semabrada_ha":"4200","area_cosechada_ha":"3950","produccion_t":"14615","rendimiento_t_ha":"4"}
+,{"municipio":"SAN PABLO","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ 2000","area_semabrada_ha":"200","area_cosechada_ha":"150","produccion_t":"675","rendimiento_t_ha":"5"}
+,{"municipio":"MONTECRISTO","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEAAROZ 50","area_semabrada_ha":"761","area_cosechada_ha":"112","produccion_t":"515","rendimiento_t_ha":"5"}
+,{"municipio":"SANTA ROSA","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"ORIZICA 1","area_semabrada_ha":"55","area_cosechada_ha":"50","produccion_t":"200","rendimiento_t_ha":"4"}
+,{"municipio":"REGIDOR","periodo":"2017B","cultivo":"ARROZ SECANO MECANIZADO","variedad":"FEDEARROZ","area_semabrada_ha":"263","area_cosechada_ha":"263","produccion_t":"526","rendimiento_t_ha":"2"}
+,{"municipio":"SANTA ROSA","periodo":"2017A","cultivo":"BERENJENA","variedad":"CRIOLLA MORADA","area_semabrada_ha":"15","area_cosechada_ha":"10","produccion_t":"70","rendimiento_t_ha":"7"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"BERENJENA","variedad":"BLAK-BEALY","area_semabrada_ha":"4","area_cosechada_ha":"4","produccion_t":"10","rendimiento_t_ha":"3"}
+,{"municipio":"SANTA ROSA","periodo":"2017B","cultivo":"BERENJENA","variedad":"CRIOLLA MORADA","area_semabrada_ha":"8","area_cosechada_ha":"3","produccion_t":"21","rendimiento_t_ha":"7"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"BERENJENA","variedad":"BLACK-BEATY","area_semabrada_ha":"6","area_cosechada_ha":"5","produccion_t":"30","rendimiento_t_ha":"6"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"CILANTRO","variedad":"RIZADO","area_semabrada_ha":"6","area_cosechada_ha":"6","produccion_t":"11","rendimiento_t_ha":"2"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017A","cultivo":"FRIJOL","variedad":"CUARENTANO","area_semabrada_ha":"5","area_cosechada_ha":"2","produccion_t":"2","rendimiento_t_ha":"1"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017A","cultivo":"FRIJOL","variedad":"CAUPI","area_semabrada_ha":"25","area_cosechada_ha":"13","produccion_t":"13","rendimiento_t_ha":"1"}
+,{"municipio":"EL PEÑON","periodo":"2017A","cultivo":"FRIJOL","variedad":"CAUPI","area_semabrada_ha":"10","area_cosechada_ha":"10","produccion_t":"8","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017A","cultivo":"FRIJOL","variedad":"RADICCALIMSANGRETORO","area_semabrada_ha":"200","area_cosechada_ha":"650","produccion_t":"455","rendimiento_t_ha":"1"}
+,{"municipio":"MORALES","periodo":"2017A","cultivo":"FRIJOL","variedad":"CALIMA- RADICAL","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"180","rendimiento_t_ha":"1"}
+,{"municipio":"SIMITI","periodo":"2017A","cultivo":"FRIJOL","variedad":"RADICAL-CALIMA","area_semabrada_ha":"150","area_cosechada_ha":"150","produccion_t":"120","rendimiento_t_ha":"1"}
+,{"municipio":"MAGANGUE","periodo":"2017A","cultivo":"FRIJOL","variedad":"CABECIT NEGRA-S.TORO","area_semabrada_ha":"40","area_cosechada_ha":"40","produccion_t":"36","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017A","cultivo":"FRIJOL","variedad":"PALOMITA","area_semabrada_ha":"5","area_cosechada_ha":"5","produccion_t":"5","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JACINTO","periodo":"2017A","cultivo":"FRIJOL","variedad":"CUARENTANO","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"15","rendimiento_t_ha":"1"}
+,{"municipio":"ZAMBRANO","periodo":"2017A","cultivo":"FRIJOL","variedad":"CAUPI","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"300","rendimiento_t_ha":"1"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017A","cultivo":"FRIJOL","variedad":"NEGRO","area_semabrada_ha":"40","area_cosechada_ha":"40","produccion_t":"80","rendimiento_t_ha":"2"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017A","cultivo":"FRIJOL","variedad":"NEGRO","area_semabrada_ha":"20","area_cosechada_ha":"20","produccion_t":"40","rendimiento_t_ha":"2"}
+,{"municipio":"EL GUAMO","periodo":"2017A","cultivo":"FRIJOL","variedad":"CAUPI - CABEZA NEGRA","area_semabrada_ha":"500","area_cosechada_ha":"400","produccion_t":"600","rendimiento_t_ha":"2"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017A","cultivo":"FRIJOL","variedad":"CAUPI","area_semabrada_ha":"110","area_cosechada_ha":"100","produccion_t":"100","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA CATALINA","periodo":"2017A","cultivo":"FRIJOL","variedad":"CABECITA NEGRA","area_semabrada_ha":"10","area_cosechada_ha":"8","produccion_t":"8","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017B","cultivo":"FRIJOL","variedad":"PALOMITA","area_semabrada_ha":"8","area_cosechada_ha":"7","produccion_t":"7","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017B","cultivo":"FRIJOL","variedad":"RADIC.ROSADSANGRE T","area_semabrada_ha":"200","area_cosechada_ha":"150","produccion_t":"105","rendimiento_t_ha":"1"}
+,{"municipio":"MORALES","periodo":"2017B","cultivo":"FRIJOL","variedad":"CALIMA- RADICAL","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"210","rendimiento_t_ha":"1"}
+,{"municipio":"VILLANUEVA","periodo":"2017B","cultivo":"FRIJOL","variedad":"CAMPI","area_semabrada_ha":"100","area_cosechada_ha":"80","produccion_t":"96","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA CATALINA","periodo":"2017B","cultivo":"FRIJOL","variedad":"CABECITA NEGRA","area_semabrada_ha":"10","area_cosechada_ha":"10","produccion_t":"10","rendimiento_t_ha":"1"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017B","cultivo":"FRIJOL","variedad":"CUARENTANO","area_semabrada_ha":"5","area_cosechada_ha":"3","produccion_t":"3","rendimiento_t_ha":"1"}
+,{"municipio":"CORDOBA","periodo":"2017B","cultivo":"FRIJOL","variedad":"CAUPI","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"36","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JACINTO","periodo":"2017B","cultivo":"FRIJOL","variedad":"CUARENTANO","area_semabrada_ha":"70","area_cosechada_ha":"70","produccion_t":"49","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JACINTO","periodo":"2017B","cultivo":"FRIJOL","variedad":"CUARENTANO","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"12","rendimiento_t_ha":"0"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017B","cultivo":"FRIJOL","variedad":"BLANCO C. NEGRO","area_semabrada_ha":"100","area_cosechada_ha":"90","produccion_t":"90","rendimiento_t_ha":"1"}
+,{"municipio":"CLEMENCIA","periodo":"2017B","cultivo":"FRIJOL","area_semabrada_ha":"20","area_cosechada_ha":"16","produccion_t":"16","rendimiento_t_ha":"1"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"FRIJOL","variedad":"CABECITA NEGRA","area_semabrada_ha":"12","area_cosechada_ha":"10","produccion_t":"10","rendimiento_t_ha":"1"}
+,{"municipio":"SIMITI","periodo":"2017B","cultivo":"FRIJOL","variedad":"RADICAL- CALIMA","area_semabrada_ha":"180","area_cosechada_ha":"180","produccion_t":"90","rendimiento_t_ha":"1"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017B","cultivo":"FRIJOL","variedad":"NEGRO","area_semabrada_ha":"60","area_cosechada_ha":"60","produccion_t":"120","rendimiento_t_ha":"2"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017B","cultivo":"FRIJOL","variedad":"NEGRO","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"60","rendimiento_t_ha":"2"}
+,{"municipio":"MONTECRISTO","periodo":"2017A","cultivo":"FRIJOL ARBUSTIVO","variedad":"CAUPI, CABECIT NEGRA","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"30","rendimiento_t_ha":"1"}
+,{"municipio":"MONTECRISTO","periodo":"2017B","cultivo":"FRIJOL ARBUSTIVO","variedad":"CAUPI CABECITA NEGRA","area_semabrada_ha":"18","area_cosechada_ha":"18","produccion_t":"23","rendimiento_t_ha":"1"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017A","cultivo":"HORTALIZAS VARIAS","variedad":"CRILLO","area_semabrada_ha":"10","area_cosechada_ha":"9","produccion_t":"27","rendimiento_t_ha":"3"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017B","cultivo":"HORTALIZAS VARIAS","variedad":"CRIOLLA10","area_semabrada_ha":"10","area_cosechada_ha":"9","produccion_t":"27","rendimiento_t_ha":"3"}
+,{"municipio":"SAN JACINTO","periodo":"2017A","cultivo":"MAIZ TECNIFICADO","variedad":"UCA V 109","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"300","rendimiento_t_ha":"3"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017A","cultivo":"MAIZ TECNIFICADO","variedad":"CINKO","area_semabrada_ha":"2500","area_cosechada_ha":"2500","produccion_t":"10000","rendimiento_t_ha":"4"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017A","cultivo":"MAIZ TECNIFICADO","variedad":"ICA V 109","area_semabrada_ha":"220","area_cosechada_ha":"200","produccion_t":"320","rendimiento_t_ha":"2"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017B","cultivo":"MAIZ TECNIFICADO","variedad":"SYNKO","area_semabrada_ha":"2000","area_cosechada_ha":"1000","produccion_t":"4000","rendimiento_t_ha":"4"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017B","cultivo":"MAIZ TECNIFICADO","variedad":"ICA V-109","area_semabrada_ha":"330","area_cosechada_ha":"300","produccion_t":"390","rendimiento_t_ha":"1"}
+,{"municipio":"MAHATES","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1500","area_cosechada_ha":"1500","produccion_t":"2250","rendimiento_t_ha":"2"}
+,{"municipio":"MAHATES","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1000","area_cosechada_ha":"1000","produccion_t":"1200","rendimiento_t_ha":"1"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-ICA V 109","area_semabrada_ha":"60","area_cosechada_ha":"15","produccion_t":"15","rendimiento_t_ha":"1"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1500","area_cosechada_ha":"1275","produccion_t":"1275","rendimiento_t_ha":"1"}
+,{"municipio":"SAN CRISTOBAL","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"70","area_cosechada_ha":"65","produccion_t":"98","rendimiento_t_ha":"2"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-CRIOLLO","area_semabrada_ha":"54","area_cosechada_ha":"50","produccion_t":"75","rendimiento_t_ha":"2"}
+,{"municipio":"CICUCO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-CRIOLLO","area_semabrada_ha":"290","area_cosechada_ha":"260","produccion_t":"442","rendimiento_t_ha":"2"}
+,{"municipio":"SAN FERNANDO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"140","area_cosechada_ha":"120","produccion_t":"216","rendimiento_t_ha":"2"}
+,{"municipio":"MOMPOS","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"425","area_cosechada_ha":"390","produccion_t":"585","rendimiento_t_ha":"2"}
+,{"municipio":"MARGARITA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"253","area_cosechada_ha":"250","produccion_t":"850","rendimiento_t_ha":"3"}
+,{"municipio":"HATILLO DE LOBA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"225","area_cosechada_ha":"150","produccion_t":"225","rendimiento_t_ha":"2"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-CRIOLLO","area_semabrada_ha":"247","area_cosechada_ha":"240","produccion_t":"408","rendimiento_t_ha":"2"}
+,{"municipio":"EL PEÑON","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"140","area_cosechada_ha":"70","produccion_t":"105","rendimiento_t_ha":"2"}
+,{"municipio":"REGIDOR","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"250","area_cosechada_ha":"250","produccion_t":"375","rendimiento_t_ha":"2"}
+,{"municipio":"REGIDOR","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"350","area_cosechada_ha":"350","produccion_t":"525","rendimiento_t_ha":"2"}
+,{"municipio":"NOROSI","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"80","area_cosechada_ha":"80","produccion_t":"120","rendimiento_t_ha":"2"}
+,{"municipio":"ALTOS DEL ROSARIO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO MANUAL","area_semabrada_ha":"120","area_cosechada_ha":"48","produccion_t":"72","rendimiento_t_ha":"2"}
+,{"municipio":"RIO VIEJO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"450","area_cosechada_ha":"50","produccion_t":"75","rendimiento_t_ha":"2"}
+,{"municipio":"SAN MARTIN DE LOBA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"600","area_cosechada_ha":"200","produccion_t":"300","rendimiento_t_ha":"2"}
+,{"municipio":"BARRANCO DE LOBA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"400","area_cosechada_ha":"350","produccion_t":"385","rendimiento_t_ha":"1"}
+,{"municipio":"CANTAGALLO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"400","area_cosechada_ha":"350","produccion_t":"700","rendimiento_t_ha":"2"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO AMARILLO","area_semabrada_ha":"900","area_cosechada_ha":"850","produccion_t":"1700","rendimiento_t_ha":"2"}
+,{"municipio":"MORALES","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-V-109","area_semabrada_ha":"1100","area_cosechada_ha":"1000","produccion_t":"1500","rendimiento_t_ha":"2"}
+,{"municipio":"SAN PABLO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"PUYITA","area_semabrada_ha":"850","area_cosechada_ha":"750","produccion_t":"1125","rendimiento_t_ha":"2"}
+,{"municipio":"SIMITI","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO V-109","area_semabrada_ha":"2000","area_cosechada_ha":"1000","produccion_t":"108000","rendimiento_t_ha":"108"}
+,{"municipio":"ARENAL","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"600","area_cosechada_ha":"600","produccion_t":"900","rendimiento_t_ha":"2"}
+,{"municipio":"PINILLOS","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO","area_semabrada_ha":"1500","area_cosechada_ha":"1000","produccion_t":"2000","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"500","area_cosechada_ha":"400","produccion_t":"800","rendimiento_t_ha":"2"}
+,{"municipio":"TIQUISIO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"400","area_cosechada_ha":"350","produccion_t":"700","rendimiento_t_ha":"2"}
+,{"municipio":"MAGANGUE","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1200","area_cosechada_ha":"890","produccion_t":"1068","rendimiento_t_ha":"1"}
+,{"municipio":"ACHI","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO","area_semabrada_ha":"2500","area_cosechada_ha":"2300","produccion_t":"4600","rendimiento_t_ha":"2"}
+,{"municipio":"MONTECRISTO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1900","area_cosechada_ha":"1650","produccion_t":"3300","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO TRADICIONAL","area_semabrada_ha":"700","area_cosechada_ha":"650","produccion_t":"1300","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO TRADICIONAL","area_semabrada_ha":"500","area_cosechada_ha":"450","produccion_t":"675","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO TRADICIONAL","area_semabrada_ha":"600","area_cosechada_ha":"550","produccion_t":"825","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO TRADICIONAL","area_semabrada_ha":"400","area_cosechada_ha":"350","produccion_t":"525","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO BLANCO","area_semabrada_ha":"700","area_cosechada_ha":"700","produccion_t":"700","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JACINTO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO AMARILLO","area_semabrada_ha":"150","area_cosechada_ha":"150","produccion_t":"150","rendimiento_t_ha":"1"}
+,{"municipio":"ZAMBRANO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"300","rendimiento_t_ha":"1"}
+,{"municipio":"ZAMBRANO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"150","area_cosechada_ha":"150","produccion_t":"150","rendimiento_t_ha":"1"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"950","area_cosechada_ha":"950","produccion_t":"1900","rendimiento_t_ha":"2"}
+,{"municipio":"EL GUAMO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"1000","area_cosechada_ha":"800","produccion_t":"1200","rendimiento_t_ha":"2"}
+,{"municipio":"EL GUAMO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"500","area_cosechada_ha":"400","produccion_t":"600","rendimiento_t_ha":"2"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"330","area_cosechada_ha":"300","produccion_t":"360","rendimiento_t_ha":"1"}
+,{"municipio":"TURBACO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"300","rendimiento_t_ha":"2"}
+,{"municipio":"TURBANA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"HIBRIDO","area_semabrada_ha":"120","area_cosechada_ha":"120","produccion_t":"240","rendimiento_t_ha":"2"}
+,{"municipio":"TURBANA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"300","rendimiento_t_ha":"1"}
+,{"municipio":"VILLANUEVA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"2400","area_cosechada_ha":"2000","produccion_t":"2400","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA CATALINA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"480","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA ROSA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"290","area_cosechada_ha":"180","produccion_t":"180","rendimiento_t_ha":"1"}
+,{"municipio":"CLEMENCIA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"2000","rendimiento_t_ha":"10"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"ICA V-  109","area_semabrada_ha":"20","area_cosechada_ha":"18","produccion_t":"20","rendimiento_t_ha":"1"}
+,{"municipio":"ARROYOHONDO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"340","area_cosechada_ha":"320","produccion_t":"320","rendimiento_t_ha":"1"}
+,{"municipio":"ARROYOHONDO","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO","area_semabrada_ha":"185","area_cosechada_ha":"175","produccion_t":"175","rendimiento_t_ha":"1"}
+,{"municipio":"ARJONA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"560","area_cosechada_ha":"170","produccion_t":"204","rendimiento_t_ha":"1"}
+,{"municipio":"ARJONA","periodo":"2017A","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"140","area_cosechada_ha":"98","produccion_t":"98","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO TRADICIONAL","area_semabrada_ha":"2000","area_cosechada_ha":"1900","produccion_t":"4180","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO TRADICIONAL","area_semabrada_ha":"1200","area_cosechada_ha":"1100","produccion_t":"1650","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO TRADICIONAL","area_semabrada_ha":"900","area_cosechada_ha":"800","produccion_t":"160000","rendimiento_t_ha":"200"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO TRADICIONAL","area_semabrada_ha":"500","area_cosechada_ha":"450","produccion_t":"810","rendimiento_t_ha":"2"}
+,{"municipio":"PINILLOS","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO","area_semabrada_ha":"1400","area_cosechada_ha":"1100","produccion_t":"2200","rendimiento_t_ha":"2"}
+,{"municipio":"MAHATES","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMRILLO","area_semabrada_ha":"1000","area_cosechada_ha":"1000","produccion_t":"1800","rendimiento_t_ha":"2"}
+,{"municipio":"MAHATES","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMRILLO","area_semabrada_ha":"800","area_cosechada_ha":"800","produccion_t":"960","rendimiento_t_ha":"1"}
+,{"municipio":"CANTAGALLO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"350","area_cosechada_ha":"350","produccion_t":"543","rendimiento_t_ha":"2"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO AMARILLO","area_semabrada_ha":"650","area_cosechada_ha":"650","produccion_t":"1300","rendimiento_t_ha":"2"}
+,{"municipio":"MORALES","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-V-109","area_semabrada_ha":"1200","area_cosechada_ha":"1100","produccion_t":"2750","rendimiento_t_ha":"3"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"MAIZ AMARILLO","area_semabrada_ha":"480","area_cosechada_ha":"400","produccion_t":"800","rendimiento_t_ha":"2"}
+,{"municipio":"TIQUISIO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"600","rendimiento_t_ha":"2"}
+,{"municipio":"MAGANGUE","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1200","area_cosechada_ha":"100","produccion_t":"150","rendimiento_t_ha":"2"}
+,{"municipio":"ACHI","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO-AMARILLO","area_semabrada_ha":"2500","area_cosechada_ha":"2380","produccion_t":"4522","rendimiento_t_ha":"2"}
+,{"municipio":"TURBACO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"500","area_cosechada_ha":"500","produccion_t":"750","rendimiento_t_ha":"2"}
+,{"municipio":"TURBANA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"HIBRIDO 109","area_semabrada_ha":"150","area_cosechada_ha":"130","produccion_t":"260","rendimiento_t_ha":"2"}
+,{"municipio":"TURBANA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"300","area_cosechada_ha":"260","produccion_t":"260","rendimiento_t_ha":"1"}
+,{"municipio":"VILLANUEVA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO AMARILLO","area_semabrada_ha":"800","area_cosechada_ha":"750","produccion_t":"900","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA CATALINA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"500","area_cosechada_ha":"500","produccion_t":"750","rendimiento_t_ha":"2"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO ICAV 109","area_semabrada_ha":"40","area_cosechada_ha":"20","produccion_t":"20","rendimiento_t_ha":"1"}
+,{"municipio":"CORDOBA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"ICA V 109 , CRIOLLO","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"400","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JACINTO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"1800","area_cosechada_ha":"1800","produccion_t":"2700","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"1200","area_cosechada_ha":"1200","produccion_t":"600","rendimiento_t_ha":"1"}
+,{"municipio":"SAN PABLO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"PUYITA","area_semabrada_ha":"900","area_cosechada_ha":"800","produccion_t":"1200","rendimiento_t_ha":"2"}
+,{"municipio":"MONTECRISTO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"ICA V-109","area_semabrada_ha":"1265","area_cosechada_ha":"560","produccion_t":"1232","rendimiento_t_ha":"2"}
+,{"municipio":"SANTA ROSA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMRILLO","area_semabrada_ha":"150","area_cosechada_ha":"100","produccion_t":"100","rendimiento_t_ha":"1"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1600","area_cosechada_ha":"1440","produccion_t":"1440","rendimiento_t_ha":"1"}
+,{"municipio":"CLEMENCIA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"120","area_cosechada_ha":"108","produccion_t":"130","rendimiento_t_ha":"1"}
+,{"municipio":"CLEMENCIA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"210","area_cosechada_ha":"189","produccion_t":"189","rendimiento_t_ha":"1"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"V- 109","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"60","rendimiento_t_ha":"1"}
+,{"municipio":"CALAMAR","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"400","area_cosechada_ha":"380","produccion_t":"380","rendimiento_t_ha":"1"}
+,{"municipio":"SIMITI","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO-VAR.109","area_semabrada_ha":"1500","area_cosechada_ha":"1500","produccion_t":"3000","rendimiento_t_ha":"2"}
+,{"municipio":"ARROYOHONDO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"275","area_cosechada_ha":"220","produccion_t":"220","rendimiento_t_ha":"1"}
+,{"municipio":"ARROYOHONDO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO","area_semabrada_ha":"165","area_cosechada_ha":"130","produccion_t":"130","rendimiento_t_ha":"1"}
+,{"municipio":"ARJONA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"NK5","area_semabrada_ha":"1200","area_cosechada_ha":"1000","produccion_t":"1200","rendimiento_t_ha":"1"}
+,{"municipio":"ARJONA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO","area_semabrada_ha":"1000","area_cosechada_ha":"800","produccion_t":"800","rendimiento_t_ha":"1"}
+,{"municipio":"EL PEÑON","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"45","rendimiento_t_ha":"2"}
+,{"municipio":"HATILLO DE LOBA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"200","area_cosechada_ha":"100","produccion_t":"150","rendimiento_t_ha":"2"}
+,{"municipio":"REGIDOR","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"300","rendimiento_t_ha":"2"}
+,{"municipio":"REGIDOR","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"300","rendimiento_t_ha":"2"}
+,{"municipio":"NOROSI","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"130","area_cosechada_ha":"60","produccion_t":"90","rendimiento_t_ha":"2"}
+,{"municipio":"ARENAL","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"400","area_cosechada_ha":"150","produccion_t":"225","rendimiento_t_ha":"2"}
+,{"municipio":"ALTOS DEL ROSARIO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO MANUAL","area_semabrada_ha":"120","area_cosechada_ha":"80","produccion_t":"120","rendimiento_t_ha":"2"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-CRIOLLO","area_semabrada_ha":"230","area_cosechada_ha":"225","produccion_t":"383","rendimiento_t_ha":"2"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO-CRIOLLO","area_semabrada_ha":"50","area_cosechada_ha":"48","produccion_t":"72","rendimiento_t_ha":"2"}
+,{"municipio":"CICUCO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO- CRIOLLO","area_semabrada_ha":"280","area_cosechada_ha":"260","produccion_t":"403","rendimiento_t_ha":"2"}
+,{"municipio":"CICUCO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO- CRIOLLO","area_semabrada_ha":"250","area_cosechada_ha":"200","produccion_t":"240","rendimiento_t_ha":"1"}
+,{"municipio":"RIO VIEJO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"850","area_cosechada_ha":"200","produccion_t":"300","rendimiento_t_ha":"2"}
+,{"municipio":"SAN MARTIN DE LOBA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"650","area_cosechada_ha":"300","produccion_t":"600","rendimiento_t_ha":"2"}
+,{"municipio":"SAN FERNANDO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"145","area_cosechada_ha":"125","produccion_t":"225","rendimiento_t_ha":"2"}
+,{"municipio":"MOMPOS","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"400","area_cosechada_ha":"300","produccion_t":"450","rendimiento_t_ha":"2"}
+,{"municipio":"MARGARITA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"253","area_cosechada_ha":"253","produccion_t":"860","rendimiento_t_ha":"3"}
+,{"municipio":"BARRANCO DE LOBA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"350","area_cosechada_ha":"130","produccion_t":"351","rendimiento_t_ha":"3"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"1050","area_cosechada_ha":"650","produccion_t":"1300","rendimiento_t_ha":"2"}
+,{"municipio":"EL GUAMO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"BLANCO CRIOLLO","area_semabrada_ha":"800","area_cosechada_ha":"600","produccion_t":"900","rendimiento_t_ha":"2"}
+,{"municipio":"EL GUAMO","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"AMARILLO CRIOLLO","area_semabrada_ha":"1500","area_cosechada_ha":"1300","produccion_t":"1950","rendimiento_t_ha":"2"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017B","cultivo":"MAIZ TRADICIONAL","variedad":"CRIOLLO","area_semabrada_ha":"220","area_cosechada_ha":"200","produccion_t":"260","rendimiento_t_ha":"1"}
+,{"municipio":"MAHATES","periodo":"2017A","cultivo":"MELON","variedad":"CANTA LUP","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"700","rendimiento_t_ha":"7"}
+,{"municipio":"MAHATES","periodo":"2017A","cultivo":"MELON","variedad":"CANTA LUP","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"600","rendimiento_t_ha":"6"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017A","cultivo":"MELON","variedad":"CANTA LUP","area_semabrada_ha":"8","area_cosechada_ha":"8","produccion_t":"184","rendimiento_t_ha":"23"}
+,{"municipio":"SANTA CATALINA","periodo":"2017A","cultivo":"MELON","variedad":"CANTALUP","area_semabrada_ha":"12","area_cosechada_ha":"6","produccion_t":"150","rendimiento_t_ha":"25"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"MELON","variedad":"BELT JUMBO","area_semabrada_ha":"20","area_cosechada_ha":"17","produccion_t":"68","rendimiento_t_ha":"4"}
+,{"municipio":"MAHATES","periodo":"2017B","cultivo":"MELON","variedad":"CANTA LUP","area_semabrada_ha":"80","area_cosechada_ha":"80","produccion_t":"640","rendimiento_t_ha":"8"}
+,{"municipio":"MAHATES","periodo":"2017B","cultivo":"MELON","variedad":"CANTA LUP","area_semabrada_ha":"80","area_cosechada_ha":"80","produccion_t":"480","rendimiento_t_ha":"6"}
+,{"municipio":"SANTA CATALINA","periodo":"2017B","cultivo":"MELON","variedad":"CANTALUP","area_semabrada_ha":"17","area_cosechada_ha":"14","produccion_t":"350","rendimiento_t_ha":"25"}
+,{"municipio":"SANTA ROSA","periodo":"2017B","cultivo":"MELON","variedad":"CANTALUP","area_semabrada_ha":"12","area_cosechada_ha":"8","produccion_t":"64","rendimiento_t_ha":"8"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017B","cultivo":"MELON","variedad":"CANTA LUP","area_semabrada_ha":"9","area_cosechada_ha":"9","produccion_t":"207","rendimiento_t_ha":"23"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"MELON","variedad":"CANTALUPE","area_semabrada_ha":"60","area_cosechada_ha":"58","produccion_t":"696","rendimiento_t_ha":"12"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"MILLO","variedad":"ASOCIADO","area_semabrada_ha":"10","area_cosechada_ha":"8","produccion_t":"12","rendimiento_t_ha":"2"}
+,{"municipio":"TURBANA","periodo":"2017B","cultivo":"MILLO","variedad":"CUBA","area_semabrada_ha":"5","area_cosechada_ha":"4","produccion_t":"8","rendimiento_t_ha":"2"}
+,{"municipio":"TURBANA","periodo":"2017B","cultivo":"MILLO","variedad":"CUBA","area_semabrada_ha":"3","area_cosechada_ha":"2","produccion_t":"2","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA CATALINA","periodo":"2017B","cultivo":"MILLO","variedad":"CRIOLLO","area_semabrada_ha":"10","area_cosechada_ha":"8","produccion_t":"12","rendimiento_t_ha":"2"}
+,{"municipio":"CLEMENCIA","periodo":"2017B","cultivo":"MILLO","variedad":"CRIOLLO","area_semabrada_ha":"210","area_cosechada_ha":"189","produccion_t":"189","rendimiento_t_ha":"1"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017A","cultivo":"PATILLA","variedad":"SANTAMELIA","area_semabrada_ha":"35","area_cosechada_ha":"32","produccion_t":"288","rendimiento_t_ha":"9"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017A","cultivo":"PATILLA","variedad":"CHARLESTON","area_semabrada_ha":"7","area_cosechada_ha":"6","produccion_t":"48","rendimiento_t_ha":"8"}
+,{"municipio":"RIO VIEJO","periodo":"2017A","cultivo":"PATILLA","variedad":"RAYADA","area_semabrada_ha":"15","area_cosechada_ha":"12","produccion_t":"12","rendimiento_t_ha":"1"}
+,{"municipio":"SAN PABLO","periodo":"2017A","cultivo":"PATILLA","variedad":"SANTA AMALIA","area_semabrada_ha":"15","area_cosechada_ha":"15","produccion_t":"225","rendimiento_t_ha":"15"}
+,{"municipio":"MAGANGUE","periodo":"2017A","cultivo":"PATILLA","variedad":"CHARLENTON GREY","area_semabrada_ha":"100","area_cosechada_ha":"85","produccion_t":"1275","rendimiento_t_ha":"15"}
+,{"municipio":"ACHI","periodo":"2017A","cultivo":"PATILLA","variedad":"SANTA MELIA","area_semabrada_ha":"40","area_cosechada_ha":"40","produccion_t":"600","rendimiento_t_ha":"15"}
+,{"municipio":"MONTECRISTO","periodo":"2017A","cultivo":"PATILLA","variedad":"CRIMSON SWEET","area_semabrada_ha":"50","area_cosechada_ha":"45","produccion_t":"630","rendimiento_t_ha":"14"}
+,{"municipio":"SANTA ROSA","periodo":"2017A","cultivo":"PATILLA","variedad":"SUN SWEER Ò RAYADA","area_semabrada_ha":"2","area_cosechada_ha":"2","produccion_t":"10","rendimiento_t_ha":"5"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"PATILLA","variedad":"CHARLENTON GRAY","area_semabrada_ha":"5","area_cosechada_ha":"4","produccion_t":"16","rendimiento_t_ha":"4"}
+,{"municipio":"ACHI","periodo":"2017B","cultivo":"PATILLA","variedad":"SANTA MELIA","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"700","rendimiento_t_ha":"14"}
+,{"municipio":"SAN PABLO","periodo":"2017B","cultivo":"PATILLA","variedad":"SANTA AMELIA","area_semabrada_ha":"25","area_cosechada_ha":"20","produccion_t":"280","rendimiento_t_ha":"14"}
+,{"municipio":"MONTECRISTO","periodo":"2017B","cultivo":"PATILLA","variedad":"CRIMSON SWEET","area_semabrada_ha":"35","area_cosechada_ha":"4","produccion_t":"48","rendimiento_t_ha":"12"}
+,{"municipio":"SANTA ROSA","periodo":"2017B","cultivo":"PATILLA","variedad":"SUN SWEER Ò RAYADA","area_semabrada_ha":"6","area_cosechada_ha":"4","produccion_t":"32","rendimiento_t_ha":"8"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"PATILLA","variedad":"CHARLESTON GREY","area_semabrada_ha":"8","area_cosechada_ha":"7","produccion_t":"21","rendimiento_t_ha":"3"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017B","cultivo":"PATILLA","variedad":"SANTA MERLIN","area_semabrada_ha":"37","area_cosechada_ha":"35","produccion_t":"315","rendimiento_t_ha":"9"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017B","cultivo":"PATILLA","variedad":"CHARLESTON","area_semabrada_ha":"8","area_cosechada_ha":"8","produccion_t":"64","rendimiento_t_ha":"8"}
+,{"municipio":"RIO VIEJO","periodo":"2017B","cultivo":"PATILLA","variedad":"RAYADA","area_semabrada_ha":"20","area_cosechada_ha":"18","produccion_t":"18","rendimiento_t_ha":"1"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017B","cultivo":"PEPINO","variedad":"COHOMBRO","area_semabrada_ha":"5","area_cosechada_ha":"5","produccion_t":"35","rendimiento_t_ha":"7"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"PEPINO COHOMBRO","variedad":"COHOMBRO","area_semabrada_ha":"2","area_cosechada_ha":"2","produccion_t":"16","rendimiento_t_ha":"8"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017A","cultivo":"PIMENTON","variedad":"CALIFORNIA","area_semabrada_ha":"5","area_cosechada_ha":"5","produccion_t":"25","rendimiento_t_ha":"5"}
+,{"municipio":"CALAMAR","periodo":"2017","cultivo":"AJI","variedad":"TOPITO","area_semabrada_ha":"5","area_cosechada_ha":"5","produccion_t":"30","rendimiento_t_ha":"6"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"AJI DULCE","variedad":"CRIOLLO","area_semabrada_ha":"10","area_cosechada_ha":"10","produccion_t":"50","rendimiento_t_ha":"5"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"AJI DULCE","variedad":"CRIOLLO","area_semabrada_ha":"70","area_cosechada_ha":"50","produccion_t":"600","rendimiento_t_ha":"12"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"AJI DULCE","variedad":"CRIOLLO","area_semabrada_ha":"10","area_cosechada_ha":"5","produccion_t":"60","rendimiento_t_ha":"12"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"AJI DULCE","variedad":"DULCE","area_semabrada_ha":"42","area_cosechada_ha":"38","produccion_t":"304","rendimiento_t_ha":"8"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"AJI TABASCO","variedad":"TABASCO","area_semabrada_ha":"90","area_cosechada_ha":"90","produccion_t":"540","rendimiento_t_ha":"6"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"AJI TABASCO","variedad":"TABASCO","area_semabrada_ha":"14","area_cosechada_ha":"12","produccion_t":"96","rendimiento_t_ha":"8"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINA","area_semabrada_ha":"2200","area_cosechada_ha":"2100","produccion_t":"31500","rendimiento_t_ha":"15"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017","cultivo":"ÑAME","variedad":"CRIOLLO","area_semabrada_ha":"1500","area_cosechada_ha":"1400","produccion_t":"16800","rendimiento_t_ha":"12"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"3000","rendimiento_t_ha":"10"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"ÑAME","variedad":"DIAMANTE","area_semabrada_ha":"500","area_cosechada_ha":"500","produccion_t":"6000","rendimiento_t_ha":"12"}
+,{"municipio":"TIQUISIO","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"1000","rendimiento_t_ha":"10"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"ÑAME","variedad":"DIAMANTE, ESPINO","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"450","rendimiento_t_ha":"9"}
+,{"municipio":"CORDOBA","periodo":"2017","cultivo":"ÑAME","variedad":"CRIOLLO","area_semabrada_ha":"8","area_cosechada_ha":"8","produccion_t":"64","rendimiento_t_ha":"8"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO CRIOLLO","area_semabrada_ha":"1700","area_cosechada_ha":"1700","produccion_t":"18700","rendimiento_t_ha":"11"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO MEJORADO","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"3000","rendimiento_t_ha":"10"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"ÑAME","variedad":"DIAMANTE 22","area_semabrada_ha":"800","area_cosechada_ha":"800","produccion_t":"9600","rendimiento_t_ha":"12"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"ÑAME","variedad":"DIAMANTE 22","area_semabrada_ha":"500","area_cosechada_ha":"500","produccion_t":"4000","rendimiento_t_ha":"8"}
+,{"municipio":"SANTA ROSA","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO","area_semabrada_ha":"120","area_cosechada_ha":"60","produccion_t":"360","rendimiento_t_ha":"6"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017","cultivo":"ÑAME","variedad":"DIAMANTE- ESPINO","area_semabrada_ha":"140","area_cosechada_ha":"135","produccion_t":"1080","rendimiento_t_ha":"8"}
+,{"municipio":"CLEMENCIA","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO","area_semabrada_ha":"90","area_cosechada_ha":"72","produccion_t":"576","rendimiento_t_ha":"8"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017","cultivo":"ÑAME","variedad":"DIAMANTE","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"700","rendimiento_t_ha":"14"}
+,{"municipio":"CALAMAR","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO","area_semabrada_ha":"20","area_cosechada_ha":"18","produccion_t":"126","rendimiento_t_ha":"7"}
+,{"municipio":"ARROYOHONDO","periodo":"2017","cultivo":"ÑAME","variedad":"ESPINO Y DIAMANTE","area_semabrada_ha":"65","area_cosechada_ha":"58","produccion_t":"580","rendimiento_t_ha":"10"}
+,{"municipio":"EL GUAMO","periodo":"2017","cultivo":"ÑAME","variedad":"DIAMANTE","area_semabrada_ha":"200","area_cosechada_ha":"180","produccion_t":"1800","rendimiento_t_ha":"10"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"ÑAME DIAMANTE","variedad":"ÑAME DIAMANTE","area_semabrada_ha":"700","area_cosechada_ha":"600","produccion_t":"8400","rendimiento_t_ha":"14"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"ÑAME DIAMANTE","variedad":"DIAMANTE","area_semabrada_ha":"2400","area_cosechada_ha":"2200","produccion_t":"26400","rendimiento_t_ha":"12"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"ÑAME ESPINO","variedad":"ÑAME ESPINO","area_semabrada_ha":"650","area_cosechada_ha":"600","produccion_t":"8400","rendimiento_t_ha":"14"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"ÑAME ESPINO","variedad":"ESPINO","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"4800","rendimiento_t_ha":"12"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"ÑAME ESPINO","variedad":"ESPINO","area_semabrada_ha":"200","area_cosechada_ha":"200","produccion_t":"2400","rendimiento_t_ha":"12"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"ÑAME ESPINO","variedad":"ESPINO","area_semabrada_ha":"960","area_cosechada_ha":"800","produccion_t":"9600","rendimiento_t_ha":"12"}
+,{"municipio":"CORDOBA","periodo":"2017","cultivo":"TABACO NEGRO","variedad":"CUBITA","area_semabrada_ha":"4","area_cosechada_ha":"4","produccion_t":"7","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"TABACO NEGRO","variedad":"TABACO NEGRO","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"30","rendimiento_t_ha":"1"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017","cultivo":"TABACO NEGRO","variedad":"CUBA","area_semabrada_ha":"30","area_cosechada_ha":"28","produccion_t":"322","rendimiento_t_ha":"12"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"TABACO NEGRO","variedad":"BURLEY","area_semabrada_ha":"240","area_cosechada_ha":"210","produccion_t":"420","rendimiento_t_ha":"2"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"TABACO RUBIO","variedad":"RUBIO","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"450","rendimiento_t_ha":"2"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"2000","area_cosechada_ha":"1900","produccion_t":"22800","rendimiento_t_ha":"12"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017","cultivo":"YUCA","variedad":"BLANCA MONA","area_semabrada_ha":"800","area_cosechada_ha":"750","produccion_t":"7500","rendimiento_t_ha":"10"}
+,{"municipio":"PINILLOS","periodo":"2017","cultivo":"YUCA","variedad":"MONA BLANCA","area_semabrada_ha":"700","area_cosechada_ha":"550","produccion_t":"6600","rendimiento_t_ha":"12"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"YUCA","variedad":"ICA NEGRITA","area_semabrada_ha":"2000","area_cosechada_ha":"700","produccion_t":"8400","rendimiento_t_ha":"12"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"1700","area_cosechada_ha":"700","produccion_t":"6300","rendimiento_t_ha":"9"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"YUCA","variedad":"AMARGA","area_semabrada_ha":"160","rendimiento_t_ha":"0"}
+,{"municipio":"CANTAGALLO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"650","area_cosechada_ha":"600","produccion_t":"6000","rendimiento_t_ha":"10"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"1000","area_cosechada_ha":"900","produccion_t":"8100","rendimiento_t_ha":"9"}
+,{"municipio":"MORALES","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"950","area_cosechada_ha":"900","produccion_t":"10800","rendimiento_t_ha":"12"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"300","area_cosechada_ha":"250","produccion_t":"2000","rendimiento_t_ha":"8"}
+,{"municipio":"TIQUISIO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"200","area_cosechada_ha":"200","produccion_t":"2000","rendimiento_t_ha":"10"}
+,{"municipio":"MAGANGUE","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"800","area_cosechada_ha":"750","produccion_t":"7500","rendimiento_t_ha":"10"}
+,{"municipio":"ACHI","periodo":"2017","cultivo":"YUCA","variedad":"VENEZLANA","area_semabrada_ha":"300","area_cosechada_ha":"200","produccion_t":"2000","rendimiento_t_ha":"10"}
+,{"municipio":"TURBACO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"450","area_cosechada_ha":"450","produccion_t":"3600","rendimiento_t_ha":"8"}
+,{"municipio":"TURBANA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"200","area_cosechada_ha":"195","produccion_t":"1755","rendimiento_t_ha":"9"}
+,{"municipio":"TURBANA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"450","area_cosechada_ha":"445","produccion_t":"3115","rendimiento_t_ha":"7"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"2000","area_cosechada_ha":"1800","produccion_t":"25200","rendimiento_t_ha":"14"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"200","area_cosechada_ha":"200","produccion_t":"1900","rendimiento_t_ha":"10"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"60","area_cosechada_ha":"15","produccion_t":"120","rendimiento_t_ha":"8"}
+,{"municipio":"CORDOBA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"500","area_cosechada_ha":"500","produccion_t":"4000","rendimiento_t_ha":"8"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"1300","area_cosechada_ha":"1300","produccion_t":"15600","rendimiento_t_ha":"12"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"1000","area_cosechada_ha":"1000","produccion_t":"6000","rendimiento_t_ha":"6"}
+,{"municipio":"SAN PABLO","periodo":"2017","cultivo":"YUCA","variedad":"MONA BLANCA","area_semabrada_ha":"900","area_cosechada_ha":"800","produccion_t":"11200","rendimiento_t_ha":"14"}
+,{"municipio":"MONTECRISTO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"800","area_cosechada_ha":"750","produccion_t":"9000","rendimiento_t_ha":"12"}
+,{"municipio":"SIMITI","periodo":"2017","cultivo":"YUCA","variedad":"MONA BLANCA","area_semabrada_ha":"600","area_cosechada_ha":"550","produccion_t":"4125","rendimiento_t_ha":"8"}
+,{"municipio":"SANTA ROSA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"250","area_cosechada_ha":"150","produccion_t":"1200","rendimiento_t_ha":"8"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"1500","area_cosechada_ha":"1425","produccion_t":"9975","rendimiento_t_ha":"7"}
+,{"municipio":"SAN CRISTOBAL","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"70","area_cosechada_ha":"65","produccion_t":"455","rendimiento_t_ha":"7"}
+,{"municipio":"SAN CRISTOBAL","periodo":"2017","cultivo":"YUCA","variedad":"AMARGA","area_semabrada_ha":"10","rendimiento_t_ha":"0"}
+,{"municipio":"CLEMENCIA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"900","area_cosechada_ha":"810","produccion_t":"6480","rendimiento_t_ha":"8"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"600","area_cosechada_ha":"550","produccion_t":"6050","rendimiento_t_ha":"11"}
+,{"municipio":"CALAMAR","periodo":"2017","cultivo":"YUCA","variedad":"BLANCA MONA-VENEZ","area_semabrada_ha":"600","area_cosechada_ha":"540","produccion_t":"3780","rendimiento_t_ha":"7"}
+,{"municipio":"CALAMAR","periodo":"2017","cultivo":"YUCA","variedad":"AMARGA","area_semabrada_ha":"100","rendimiento_t_ha":"0"}
+,{"municipio":"ARROYOHONDO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"340","area_cosechada_ha":"340","produccion_t":"2040","rendimiento_t_ha":"6"}
+,{"municipio":"ARROYOHONDO","periodo":"2017","cultivo":"YUCA","variedad":"AMARGA","area_semabrada_ha":"32","rendimiento_t_ha":"0"}
+,{"municipio":"ARJONA","periodo":"2017","cultivo":"YUCA","variedad":"ICA NEGRITA","area_semabrada_ha":"400","area_cosechada_ha":"390","produccion_t":"3900","rendimiento_t_ha":"10"}
+,{"municipio":"ARJONA","periodo":"2017","cultivo":"YUCA","variedad":"BLANCA MONA","area_semabrada_ha":"50","area_cosechada_ha":"45","produccion_t":"360","rendimiento_t_ha":"8"}
+,{"municipio":"EL PEÑON","periodo":"2017","cultivo":"YUCA","variedad":"LIGERITA","area_semabrada_ha":"220","area_cosechada_ha":"150","produccion_t":"1500","rendimiento_t_ha":"10"}
+,{"municipio":"HATILLO DE LOBA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"200","area_cosechada_ha":"150","produccion_t":"1200","rendimiento_t_ha":"8"}
+,{"municipio":"REGIDOR","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"300","rendimiento_t_ha":"0"}
+,{"municipio":"NOROSI","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"250","area_cosechada_ha":"230","produccion_t":"2300","rendimiento_t_ha":"10"}
+,{"municipio":"ARENAL","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"300","rendimiento_t_ha":"10"}
+,{"municipio":"ALTOS DEL ROSARIO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"80","area_cosechada_ha":"40","produccion_t":"400","rendimiento_t_ha":"10"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017","cultivo":"YUCA","variedad":"LIGERITA","area_semabrada_ha":"240","area_cosechada_ha":"230","produccion_t":"1725","rendimiento_t_ha":"8"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017","cultivo":"YUCA","variedad":"LIGERITA","area_semabrada_ha":"130","area_cosechada_ha":"125","produccion_t":"813","rendimiento_t_ha":"7"}
+,{"municipio":"CICUCO","periodo":"2017","cultivo":"YUCA","variedad":"LIGERITA","area_semabrada_ha":"95","area_cosechada_ha":"90","produccion_t":"540","rendimiento_t_ha":"6"}
+,{"municipio":"CICUCO","periodo":"2017","cultivo":"YUCA","variedad":"NEGRITA","area_semabrada_ha":"5","area_cosechada_ha":"5","produccion_t":"25","rendimiento_t_ha":"5"}
+,{"municipio":"RIO VIEJO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"200","area_cosechada_ha":"180","produccion_t":"1260","rendimiento_t_ha":"7"}
+,{"municipio":"SAN MARTIN DE LOBA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"400","area_cosechada_ha":"300","produccion_t":"3600","rendimiento_t_ha":"12"}
+,{"municipio":"SAN FERNANDO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"75","area_cosechada_ha":"70","produccion_t":"700","rendimiento_t_ha":"10"}
+,{"municipio":"MOMPOS","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"500","area_cosechada_ha":"450","produccion_t":"3600","rendimiento_t_ha":"8"}
+,{"municipio":"MARGARITA","periodo":"2017","cultivo":"YUCA","variedad":"LIGERITA","area_semabrada_ha":"247","area_cosechada_ha":"247","produccion_t":"6175","rendimiento_t_ha":"25"}
+,{"municipio":"BARRANCO DE LOBA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"380","area_cosechada_ha":"350","produccion_t":"2800","rendimiento_t_ha":"8"}
+,{"municipio":"ZAMBRANO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"2000","area_cosechada_ha":"2000","produccion_t":"16000","rendimiento_t_ha":"8"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"3200","rendimiento_t_ha":"8"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"800","rendimiento_t_ha":"8"}
+,{"municipio":"EL GUAMO","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"1000","area_cosechada_ha":"800","produccion_t":"6400","rendimiento_t_ha":"8"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"YUCA","variedad":"VENEZOLANA","area_semabrada_ha":"4725","area_cosechada_ha":"4500","produccion_t":"45000","rendimiento_t_ha":"10"}
+,{"municipio":"ACHI","periodo":"2017","cultivo":"AGUACATE","variedad":"CRIOLLO","area_semabrada_ha":"80","area_cosechada_ha":"80","produccion_t":"1200","rendimiento_t_ha":"15"}
+,{"municipio":"BARRANCO DE LOBA","periodo":"2017","cultivo":"AGUACATE","variedad":"ANTILLANO","area_semabrada_ha":"15","area_cosechada_ha":"15","produccion_t":"150","rendimiento_t_ha":"10"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"AGUACATE","variedad":"CRIOLLO","area_semabrada_ha":"2140","area_cosechada_ha":"1690","produccion_t":"16900","rendimiento_t_ha":"10"}
+,{"municipio":"EL PEÑON","periodo":"2017","cultivo":"AGUACATE","variedad":"ANTILLANNO","area_semabrada_ha":"9","area_cosechada_ha":"9","produccion_t":"108","rendimiento_t_ha":"12"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"AGUACATE","variedad":"CRIOLLO","area_semabrada_ha":"530","area_cosechada_ha":"430","produccion_t":"6450","rendimiento_t_ha":"15"}
+,{"municipio":"SAN MARTIN DE LOBA","periodo":"2017","cultivo":"AGUACATE","variedad":"ANTILLANO","area_semabrada_ha":"70","area_cosechada_ha":"70","produccion_t":"700","rendimiento_t_ha":"10"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"AGUACATE","area_semabrada_ha":"5","area_cosechada_ha":"1","produccion_t":"6","rendimiento_t_ha":"6"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017","cultivo":"AGUACATE","variedad":"CRIOLLO- LORENA","area_semabrada_ha":"123","area_cosechada_ha":"123","produccion_t":"1230","rendimiento_t_ha":"10"}
+,{"municipio":"ACHI","periodo":"2017","cultivo":"CACAO","variedad":"CRIOLLO","area_semabrada_ha":"150","area_cosechada_ha":"20","produccion_t":"12","rendimiento_t_ha":"1"}
+,{"municipio":"ALTOS DEL ROSARIO","periodo":"2017","cultivo":"CACAO","variedad":"CRIOLLO","area_semabrada_ha":"20","rendimiento_t_ha":"0"}
+,{"municipio":"ARENAL","periodo":"2017","cultivo":"CACAO","variedad":"CRIOLLO","area_semabrada_ha":"60","area_cosechada_ha":"60","produccion_t":"90","rendimiento_t_ha":"2"}
+,{"municipio":"BARRANCO DE LOBA","periodo":"2017","cultivo":"CACAO","variedad":"HIBRIDO","area_semabrada_ha":"46","area_cosechada_ha":"46","produccion_t":"46","rendimiento_t_ha":"1"}
+,{"municipio":"CANTAGALLO","periodo":"2017","cultivo":"CACAO","area_semabrada_ha":"800","area_cosechada_ha":"500","produccion_t":"300","rendimiento_t_ha":"1"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"CACAO","variedad":"ISC-51","area_semabrada_ha":"279","area_cosechada_ha":"138","produccion_t":"21","rendimiento_t_ha":"0"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"CACAO","area_semabrada_ha":"73","area_cosechada_ha":"58","produccion_t":"9","rendimiento_t_ha":"0"}
+,{"municipio":"MONTECRISTO","periodo":"2017","cultivo":"CACAO","variedad":"CAUCACIA 39, CCN 51, IMC 47,ICS95.","area_semabrada_ha":"12","area_cosechada_ha":"12","produccion_t":"16","rendimiento_t_ha":"1"}
+,{"municipio":"MORALES","periodo":"2017","cultivo":"CACAO","variedad":"CLONES","area_semabrada_ha":"137","area_cosechada_ha":"77","produccion_t":"54","rendimiento_t_ha":"1"}
+,{"municipio":"NOROSI","periodo":"2017","cultivo":"CACAO","variedad":"CRIOLLO","area_semabrada_ha":"52","area_cosechada_ha":"52","produccion_t":"17","rendimiento_t_ha":"0"}
+,{"municipio":"PINILLOS","periodo":"2017","cultivo":"CACAO","variedad":"CRIOLLO","area_semabrada_ha":"397","area_cosechada_ha":"297","produccion_t":"178","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"CACAO","variedad":"CCNN-51- ICS-95","area_semabrada_ha":"441","area_cosechada_ha":"250","produccion_t":"50","rendimiento_t_ha":"0"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017","cultivo":"CACAO","variedad":"CRIOLLO","area_semabrada_ha":"10","area_cosechada_ha":"10","produccion_t":"6","rendimiento_t_ha":"1"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017","cultivo":"CACAO","variedad":"PATRON","area_semabrada_ha":"88","area_cosechada_ha":"18","produccion_t":"1833","rendimiento_t_ha":"103"}
+,{"municipio":"SAN PABLO","periodo":"2017","cultivo":"CACAO","variedad":"HIBRIDO ICA 5559","area_semabrada_ha":"350","area_cosechada_ha":"350","produccion_t":"175","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017","cultivo":"CACAO","variedad":"IMC 67-ICS95-ICS 611-CCN51","area_semabrada_ha":"3350","area_cosechada_ha":"3040","produccion_t":"2432","rendimiento_t_ha":"1"}
+,{"municipio":"SIMITI","periodo":"2017","cultivo":"CACAO","variedad":"IMC67-ICS 90-CCM51","area_semabrada_ha":"1005","area_cosechada_ha":"755","produccion_t":"378","rendimiento_t_ha":"1"}
+,{"municipio":"TIQUISIO","periodo":"2017","cultivo":"CACAO","variedad":"CLONESTSH565-CCMN-51-MON-1, IMC-67","area_semabrada_ha":"110","area_cosechada_ha":"25","produccion_t":"25","rendimiento_t_ha":"1"}
+,{"municipio":"MORALES","periodo":"2017","cultivo":"CAFE","variedad":"CRIOLLO","area_semabrada_ha":"20","area_cosechada_ha":"20","produccion_t":"14","rendimiento_t_ha":"1"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017","cultivo":"CAFE","variedad":"CASTILLA CATURRA","area_semabrada_ha":"1600","area_cosechada_ha":"1530","produccion_t":"1071","rendimiento_t_ha":"1"}
+,{"municipio":"ACHI","periodo":"2017","cultivo":"CAÑA PANELERA","variedad":"PTJ","area_semabrada_ha":"30","area_cosechada_ha":"20","produccion_t":"160","rendimiento_t_ha":"8"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"CAÑA PANELERA","variedad":"PANELERA","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"3000","rendimiento_t_ha":"10"}
+,{"municipio":"MARGARITA","periodo":"2017","cultivo":"CAÑA PANELERA","variedad":"P.O.J","area_semabrada_ha":"40","area_cosechada_ha":"38","produccion_t":"72","rendimiento_t_ha":"2"}
+,{"municipio":"MORALES","periodo":"2017","cultivo":"CAÑA PANELERA","variedad":"POJ","area_semabrada_ha":"8","area_cosechada_ha":"8","produccion_t":"40","rendimiento_t_ha":"5"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017","cultivo":"CAÑA PANELERA","variedad":"CRIOLLA","area_semabrada_ha":"585","area_cosechada_ha":"585","produccion_t":"4680","rendimiento_t_ha":"8"}
+,{"municipio":"TIQUISIO","periodo":"2017","cultivo":"CAÑA PANELERA","variedad":"POJ 28-78","area_semabrada_ha":"45","area_cosechada_ha":"45","produccion_t":"203","rendimiento_t_ha":"5"}
+,{"municipio":"TURBACO","periodo":"2017","cultivo":"CAÑA PANELERA","variedad":"PTOJ","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"390","rendimiento_t_ha":"13"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"CAÑA PANELERA","area_semabrada_ha":"21","area_cosechada_ha":"19","produccion_t":"342","rendimiento_t_ha":"18"}
+,{"municipio":"MONTECRISTO","periodo":"2017","cultivo":"CAUCHO","variedad":"IAN 710","area_semabrada_ha":"10","area_cosechada_ha":"8","produccion_t":"14","rendimiento_t_ha":"2"}
+,{"municipio":"SAN PABLO","periodo":"2017","cultivo":"CAUCHO","variedad":"FX  3864","area_semabrada_ha":"370","area_cosechada_ha":"170","produccion_t":"51","rendimiento_t_ha":"0"}
+,{"municipio":"SIMITI","periodo":"2017","cultivo":"CAUCHO","area_semabrada_ha":"220","area_cosechada_ha":"0","produccion_t":"0","rendimiento_t_ha":"0"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017","cultivo":"CIRUELA","variedad":"LISA","area_semabrada_ha":"35","area_cosechada_ha":"35","produccion_t":"70","rendimiento_t_ha":"2"}
+,{"municipio":"CLEMENCIA","periodo":"2017","cultivo":"CITRICOS","variedad":"LIMON, MANDARINA ,NARANJA","area_semabrada_ha":"20","area_cosechada_ha":"15","produccion_t":"180","rendimiento_t_ha":"12"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"CITRICOS","variedad":"NARANJA- LIMON-MANDARINA","area_semabrada_ha":"200","area_cosechada_ha":"130","produccion_t":"1950","rendimiento_t_ha":"15"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017","cultivo":"COCO","variedad":"ALTO CARIBE","area_semabrada_ha":"210","area_cosechada_ha":"210","produccion_t":"1680","rendimiento_t_ha":"8"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"COCO","variedad":"ENANO MALAYO","area_semabrada_ha":"40","area_cosechada_ha":"40","produccion_t":"320","rendimiento_t_ha":"8"}
+,{"municipio":"MOMPOS","periodo":"2017","cultivo":"COCO","variedad":"CRIOLLO","area_semabrada_ha":"10","area_cosechada_ha":"10","produccion_t":"40","rendimiento_t_ha":"4"}
+,{"municipio":"PINILLOS","periodo":"2017","cultivo":"COCO","variedad":"ENANO - MALAYA","area_semabrada_ha":"3","area_cosechada_ha":"3","produccion_t":"12","rendimiento_t_ha":"4"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"COCO","variedad":"ALTO CARIBE","area_semabrada_ha":"7","area_cosechada_ha":"7","produccion_t":"21","rendimiento_t_ha":"3"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017","cultivo":"COCO","variedad":"ENANO MALAYO","area_semabrada_ha":"35","area_cosechada_ha":"35","produccion_t":"105","rendimiento_t_ha":"3"}
+,{"municipio":"SAN JACINTO","periodo":"2017","cultivo":"EUCALIPTO BABY BLUE","variedad":"BABY BLUE","area_semabrada_ha":"5000","area_cosechada_ha":"0","produccion_t":"0","rendimiento_t_ha":"0"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017","cultivo":"GUANABANA","variedad":"CRIOLLA","area_semabrada_ha":"9","area_cosechada_ha":"9","produccion_t":"45","rendimiento_t_ha":"5"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"GUANABANA","variedad":"LISA","area_semabrada_ha":"15","area_cosechada_ha":"12","produccion_t":"120","rendimiento_t_ha":"10"}
+,{"municipio":"TURBACO","periodo":"2017","cultivo":"GUANABANA","variedad":"LISA","area_semabrada_ha":"9","area_cosechada_ha":"9","produccion_t":"117","rendimiento_t_ha":"13"}
+,{"municipio":"CALAMAR","periodo":"2017","cultivo":"GUAYABA","variedad":"ROJA","area_semabrada_ha":"5","area_cosechada_ha":"5","produccion_t":"30","rendimiento_t_ha":"6"}
+,{"municipio":"SANTA ROSA","periodo":"2017","cultivo":"GUAYABA","variedad":"CRIOLLA AMARILA","area_semabrada_ha":"8","area_cosechada_ha":"1","produccion_t":"2","rendimiento_t_ha":"2"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017","cultivo":"GUAYABA","variedad":"AMARILLA","area_semabrada_ha":"2","area_cosechada_ha":"2","produccion_t":"20","rendimiento_t_ha":"10"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"GUAYABA","variedad":"AMARILLA","area_semabrada_ha":"4","area_cosechada_ha":"3","produccion_t":"36","rendimiento_t_ha":"12"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"JATROPHA","variedad":"CURCAS","area_semabrada_ha":"60","area_cosechada_ha":"60","produccion_t":"120","rendimiento_t_ha":"2"}
+,{"municipio":"TURBACO","periodo":"2017","cultivo":"JATROPHA","variedad":"CURCAS","area_semabrada_ha":"24","area_cosechada_ha":"24","produccion_t":"0","rendimiento_t_ha":"0"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"LIMON","variedad":"CRIOLLO","area_semabrada_ha":"10","area_cosechada_ha":"10","produccion_t":"140","rendimiento_t_ha":"14"}
+,{"municipio":"SANTA ROSA","periodo":"2017","cultivo":"LIMON","variedad":"CRIOLLO","area_semabrada_ha":"25","area_cosechada_ha":"15","produccion_t":"90","rendimiento_t_ha":"6"}
+,{"municipio":"TURBANA","periodo":"2017","cultivo":"LIMON","variedad":"CRIOLLO-TAHITI","area_semabrada_ha":"43","area_cosechada_ha":"18","produccion_t":"180","rendimiento_t_ha":"10"}
+,{"municipio":"TURBANA","periodo":"2017","cultivo":"LIMON","variedad":"CRIOLLO","area_semabrada_ha":"4","area_cosechada_ha":"2","produccion_t":"16","rendimiento_t_ha":"8"}
+,{"municipio":"ARJONA","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"600","rendimiento_t_ha":"20"}
+,{"municipio":"BARRANCO DE LOBA","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"15","area_cosechada_ha":"15","produccion_t":"195","rendimiento_t_ha":"13"}
+,{"municipio":"CALAMAR","periodo":"2017","cultivo":"MANGO","variedad":"HILASA","area_semabrada_ha":"32","area_cosechada_ha":"22","produccion_t":"484","rendimiento_t_ha":"22"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"17","area_cosechada_ha":"17","produccion_t":"119","rendimiento_t_ha":"7"}
+,{"municipio":"CICUCO","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"9","area_cosechada_ha":"9","produccion_t":"90","rendimiento_t_ha":"10"}
+,{"municipio":"CLEMENCIA","periodo":"2017","cultivo":"MANGO","variedad":"HILASA","area_semabrada_ha":"297","area_cosechada_ha":"217","produccion_t":"1736","rendimiento_t_ha":"8"}
+,{"municipio":"EL GUAMO","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"15","area_cosechada_ha":"15","produccion_t":"195","rendimiento_t_ha":"13"}
+,{"municipio":"EL PEÑON","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"42","area_cosechada_ha":"35","produccion_t":"455","rendimiento_t_ha":"13"}
+,{"municipio":"MAGANGUE","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"126","area_cosechada_ha":"42","produccion_t":"756","rendimiento_t_ha":"18"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"350","area_cosechada_ha":"150","produccion_t":"2250","rendimiento_t_ha":"15"}
+,{"municipio":"MOMPOS","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"300","rendimiento_t_ha":"10"}
+,{"municipio":"PINILLOS","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"20","area_cosechada_ha":"20","produccion_t":"360","rendimiento_t_ha":"18"}
+,{"municipio":"SAN CRISTOBAL","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"49","area_cosechada_ha":"10","produccion_t":"60","rendimiento_t_ha":"6"}
+,{"municipio":"SAN FERNANDO","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"9","area_cosechada_ha":"9","produccion_t":"72","rendimiento_t_ha":"8"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"253","area_cosechada_ha":"113","produccion_t":"2034","rendimiento_t_ha":"18"}
+,{"municipio":"SANTA ROSA","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"108","area_cosechada_ha":"98","produccion_t":"1764","rendimiento_t_ha":"18"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017","cultivo":"MANGO","variedad":"HILASA","area_semabrada_ha":"36","area_cosechada_ha":"15","produccion_t":"120","rendimiento_t_ha":"8"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"25","area_cosechada_ha":"25","produccion_t":"375","rendimiento_t_ha":"15"}
+,{"municipio":"TURBACO","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"10","area_cosechada_ha":"10","produccion_t":"100","rendimiento_t_ha":"10"}
+,{"municipio":"TURBANA","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"99","area_cosechada_ha":"73","produccion_t":"584","rendimiento_t_ha":"8"}
+,{"municipio":"TURBANA","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"82","area_cosechada_ha":"82","produccion_t":"680","rendimiento_t_ha":"8"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"MANGO","variedad":"HILAZA","area_semabrada_ha":"380","area_cosechada_ha":"377","produccion_t":"6786","rendimiento_t_ha":"18"}
+,{"municipio":"MARGARITA","periodo":"2017","cultivo":"NARANJA","variedad":"MARGARITA","area_semabrada_ha":"76","area_cosechada_ha":"64","produccion_t":"960","rendimiento_t_ha":"15"}
+,{"municipio":"SAN FERNANDO","periodo":"2017","cultivo":"NARANJA","variedad":"MARGARITA","area_semabrada_ha":"40","area_cosechada_ha":"40","produccion_t":"600","rendimiento_t_ha":"15"}
+,{"municipio":"SAN JUAN NEPOMUCENO","periodo":"2017","cultivo":"NARANJA","variedad":"MARGARITA","area_semabrada_ha":"4","area_cosechada_ha":"1","produccion_t":"1","rendimiento_t_ha":"1"}
+,{"municipio":"TURBACO","periodo":"2017","cultivo":"NARANJA","variedad":"VALENCIA","area_semabrada_ha":"15","area_cosechada_ha":"15","produccion_t":"195","rendimiento_t_ha":"13"}
+,{"municipio":"EL GUAMO","periodo":"2017","cultivo":"NARANJA VALENCIA","variedad":"VALENCIA","area_semabrada_ha":"13","area_cosechada_ha":"13","produccion_t":"169","rendimiento_t_ha":"13"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017","cultivo":"NARANJA VALENCIA","variedad":"MARGARIITA","area_semabrada_ha":"55","area_cosechada_ha":"55","produccion_t":"550","rendimiento_t_ha":"10"}
+,{"municipio":"TURBANA","periodo":"2017","cultivo":"NISPERO","area_semabrada_ha":"13","area_cosechada_ha":"13","produccion_t":"65","rendimiento_t_ha":"5"}
+,{"municipio":"ARJONA","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DAMI LAS FLORES","area_semabrada_ha":"399","area_cosechada_ha":"324","produccion_t":"3240","rendimiento_t_ha":"10"}
+,{"municipio":"CANTAGALLO","periodo":"2017","cultivo":"PALMA DE ACEITE","area_semabrada_ha":"400","area_cosechada_ha":"400","produccion_t":"4000","rendimiento_t_ha":"10"}
+,{"municipio":"EL PEÑON","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DAMI DELI","area_semabrada_ha":"80","area_cosechada_ha":"80","produccion_t":"360","rendimiento_t_ha":"5"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"COSTA RICA","area_semabrada_ha":"2000","area_cosechada_ha":"1200","produccion_t":"24000","rendimiento_t_ha":"20"}
+,{"municipio":"MORALES","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DAMI-DELL-COSTA RICA","area_semabrada_ha":"979","area_cosechada_ha":"599","produccion_t":"7188","rendimiento_t_ha":"12"}
+,{"municipio":"NOROSI","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DAMI-DELI","area_semabrada_ha":"320","area_cosechada_ha":"320","produccion_t":"1280","rendimiento_t_ha":"4"}
+,{"municipio":"REGIDOR","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DAMI-DELI","area_semabrada_ha":"6000","area_cosechada_ha":"6000","produccion_t":"27000","rendimiento_t_ha":"5"}
+,{"municipio":"RIO VIEJO","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DAMI DELI","area_semabrada_ha":"3000","area_cosechada_ha":"3000","produccion_t":"24000","rendimiento_t_ha":"8"}
+,{"municipio":"SAN PABLO","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DURA-DAMI- DELL COSTA RICA","area_semabrada_ha":"11950","area_cosechada_ha":"11950","produccion_t":"143400","rendimiento_t_ha":"12"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"PALMA DE ACEITE","area_semabrada_ha":"120","area_cosechada_ha":"0","produccion_t":"0","rendimiento_t_ha":"0"}
+,{"municipio":"SIMITI","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DURA-DAMI-DELI-COSTA RICA","area_semabrada_ha":"6175","area_cosechada_ha":"5675","produccion_t":"36888","rendimiento_t_ha":"7"}
+,{"municipio":"ZAMBRANO","periodo":"2017","cultivo":"PALMA DE ACEITE","variedad":"DAMI FLORES","area_semabrada_ha":"550","area_cosechada_ha":"0","produccion_t":"0","rendimiento_t_ha":"0"}
+,{"municipio":"ARJONA","periodo":"2017","cultivo":"PIÑA","variedad":"GOLD-OROMIEL","area_semabrada_ha":"9","area_cosechada_ha":"4","produccion_t":"120","rendimiento_t_ha":"30"}
+,{"municipio":"EL PEÑON","periodo":"2017","cultivo":"PIÑA","variedad":"AMARILLA REDONDA","area_semabrada_ha":"278","area_cosechada_ha":"278","produccion_t":"3336","rendimiento_t_ha":"12"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"PIÑA","variedad":"GOOLD","area_semabrada_ha":"1","area_cosechada_ha":"1","produccion_t":"10","rendimiento_t_ha":"20"}
+,{"municipio":"TURBACO","periodo":"2017","cultivo":"PIÑA","variedad":"GOOLD","area_semabrada_ha":"5","area_cosechada_ha":"3","produccion_t":"60","rendimiento_t_ha":"20"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"PIÑA","variedad":"GOOLD","area_semabrada_ha":"2","area_cosechada_ha":"2","produccion_t":"60","rendimiento_t_ha":"30"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017","cultivo":"PITAHAYA","area_semabrada_ha":"25","area_cosechada_ha":"25","produccion_t":"75","rendimiento_t_ha":"3"}
+,{"municipio":"ACHI","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"400","area_cosechada_ha":"200","produccion_t":"1000","rendimiento_t_ha":"5"}
+,{"municipio":"ALTOS DEL ROSARIO","periodo":"2017","cultivo":"PLATANO","variedad":"MAFUFO","area_semabrada_ha":"100","area_cosechada_ha":"100","produccion_t":"550","rendimiento_t_ha":"6"}
+,{"municipio":"ARENAL","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"300","area_cosechada_ha":"300","produccion_t":"1200","rendimiento_t_ha":"4"}
+,{"municipio":"ARJONA","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"200","area_cosechada_ha":"80","produccion_t":"1760","rendimiento_t_ha":"22"}
+,{"municipio":"BARRANCO DE LOBA","periodo":"2017","cultivo":"PLATANO","variedad":"MAFUFO","area_semabrada_ha":"29","area_cosechada_ha":"29","produccion_t":"116","rendimiento_t_ha":"4"}
+,{"municipio":"CALAMAR","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"5","area_cosechada_ha":"5","produccion_t":"30","rendimiento_t_ha":"6"}
+,{"municipio":"CARTAGENA DE INDIAS","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"30","area_cosechada_ha":"30","produccion_t":"270","rendimiento_t_ha":"9"}
+,{"municipio":"CICUCO","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"70","area_cosechada_ha":"70","produccion_t":"350","rendimiento_t_ha":"5"}
+,{"municipio":"CLEMENCIA","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"120","area_cosechada_ha":"100","produccion_t":"700","rendimiento_t_ha":"7"}
+,{"municipio":"EL CARMEN DE BOLIVAR","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"1050","area_cosechada_ha":"840","produccion_t":"10080","rendimiento_t_ha":"12"}
+,{"municipio":"EL GUAMO","periodo":"2017","cultivo":"PLATANO","variedad":"CRIOLLO","area_semabrada_ha":"40","area_cosechada_ha":"36","produccion_t":"288","rendimiento_t_ha":"8"}
+,{"municipio":"EL PEÑON","periodo":"2017","cultivo":"PLATANO","variedad":"MAFUFO","area_semabrada_ha":"158","area_cosechada_ha":"158","produccion_t":"632","rendimiento_t_ha":"4"}
+,{"municipio":"HATILLO DE LOBA","periodo":"2017","cultivo":"PLATANO","variedad":"MAFUFO","area_semabrada_ha":"93","area_cosechada_ha":"93","produccion_t":"372","rendimiento_t_ha":"4"}
+,{"municipio":"MAGANGUE","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"124","area_cosechada_ha":"124","produccion_t":"620","rendimiento_t_ha":"5"}
+,{"municipio":"MAHATES","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"500","area_cosechada_ha":"500","produccion_t":"6000","rendimiento_t_ha":"12"}
+,{"municipio":"MARGARITA","periodo":"2017","cultivo":"PLATANO","variedad":"CRIOLLO","area_semabrada_ha":"116","area_cosechada_ha":"96","produccion_t":"768","rendimiento_t_ha":"8"}
+,{"municipio":"MARIA LA BAJA","periodo":"2017","cultivo":"PLATANO","variedad":"DOMINICO HARTON","area_semabrada_ha":"1300","area_cosechada_ha":"1300","produccion_t":"10400","rendimiento_t_ha":"8"}
+,{"municipio":"MOMPOS","periodo":"2017","cultivo":"PLATANO","variedad":"MAFUFO","area_semabrada_ha":"110","area_cosechada_ha":"110","produccion_t":"440","rendimiento_t_ha":"4"}
+,{"municipio":"MONTECRISTO","periodo":"2017","cultivo":"PLATANO","variedad":"DOMINICO HARTON","area_semabrada_ha":"20","area_cosechada_ha":"15","produccion_t":"120","rendimiento_t_ha":"8"}
+,{"municipio":"MORALES","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"200","area_cosechada_ha":"200","produccion_t":"1000","rendimiento_t_ha":"5"}
+,{"municipio":"NOROSI","periodo":"2017","cultivo":"PLATANO","variedad":"PLATANO","area_semabrada_ha":"52","area_cosechada_ha":"52","produccion_t":"416","rendimiento_t_ha":"8"}
+,{"municipio":"PINILLOS","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"1000","area_cosechada_ha":"1000","produccion_t":"5000","rendimiento_t_ha":"5"}
+,{"municipio":"REGIDOR","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"150","area_cosechada_ha":"150","produccion_t":"600","rendimiento_t_ha":"4"}
+,{"municipio":"SAN ESTANISLAO","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"35","area_cosechada_ha":"25","produccion_t":"150","rendimiento_t_ha":"6"}
+,{"municipio":"SAN FERNANDO","periodo":"2017","cultivo":"PLATANO","variedad":"MAFUFO","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"200","rendimiento_t_ha":"4"}
+,{"municipio":"SAN JACINTO DEL CAUCA","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"60","area_cosechada_ha":"60","produccion_t":"300","rendimiento_t_ha":"5"}
+,{"municipio":"SAN MARTIN DE LOBA","periodo":"2017","cultivo":"PLATANO","variedad":"MAFUFO","area_semabrada_ha":"500","area_cosechada_ha":"500","produccion_t":"2000","rendimiento_t_ha":"4"}
+,{"municipio":"SAN PABLO","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"950","area_cosechada_ha":"950","produccion_t":"9500","rendimiento_t_ha":"10"}
+,{"municipio":"SANTA CATALINA","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"20","area_cosechada_ha":"5","produccion_t":"50","rendimiento_t_ha":"10"}
+,{"municipio":"SANTA ROSA","periodo":"2017","cultivo":"PLATANO","variedad":"HARTO","area_semabrada_ha":"52","area_cosechada_ha":"12","produccion_t":"72","rendimiento_t_ha":"6"}
+,{"municipio":"SANTA ROSA DEL SUR","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"810","area_cosechada_ha":"810","produccion_t":"5670","rendimiento_t_ha":"7"}
+,{"municipio":"SOPLAVIENTO","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"2","area_cosechada_ha":"2","produccion_t":"20","rendimiento_t_ha":"10"}
+,{"municipio":"TALAIGUA NUEVO","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"150","area_cosechada_ha":"150","produccion_t":"750","rendimiento_t_ha":"5"}
+,{"municipio":"TIQUISIO","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"167","area_cosechada_ha":"167","produccion_t":"752","rendimiento_t_ha":"5"}
+,{"municipio":"VILLANUEVA","periodo":"2017","cultivo":"PLATANO","variedad":"HARTON","area_semabrada_ha":"95","area_cosechada_ha":"90","produccion_t":"990","rendimiento_t_ha":"11"}
+,{"municipio":"ACHI","periodo":"2017","cultivo":"ZAPOTE","variedad":"CRIOLLO","area_semabrada_ha":"50","area_cosechada_ha":"50","produccion_t":"600","rendimiento_t_ha":"12"}]
